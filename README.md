@@ -22,7 +22,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/[Your-Github-Username]/smallsh.git
+git clone https://github.com/haleyekrueger/smallsh.git
 cd smallsh
 gcc -o smallsh smallsh.c
 ```
